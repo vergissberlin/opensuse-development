@@ -6,6 +6,7 @@ RUN zypper up -y &&\
 	curl \
 	figlet \
 	git-core \
+	make \
 	mc \
 	wget \
 	vim
