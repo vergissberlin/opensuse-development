@@ -7,4 +7,5 @@ RUN zypper up -y &&\
 	figlet \
 	git-core \
 	mc \
-	wget
+	wget \
+	vim
