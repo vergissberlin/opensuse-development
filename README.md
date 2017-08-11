@@ -2,15 +2,17 @@
 
 > Docker opensuse image to use for development, testing and deployment.
 
-| Docker base image   | Docker image              | Tag               | Size   | Pulls  |
-| ------------------- | ------------------------- | ----------------- | ------ | ------ |
-| [opensuse][1]       | [opensuse-development][2] | [latest][3]       | ![][4] | ![][5] |
+| Docker base image   | Docker image              | Tag               | Size   | Pulls  | Build  | Status |
+| ------------------- | ------------------------- | ----------------- | ------ | ------ | ------ | ------ |
+| [opensuse][1]       | [opensuse-development][2] | [latest][3]       | ![][4] | ![][5] | ![][6] | ![][7] |
 
 [1]: https://hub.docker.com/_/opensuse/
 [2]: https://hub.docker.com/r/vergissberlin/opensuse-development/
 [3]: https://hub.docker.com/r/vergissberlin/opensuse-development/tags/
 [4]: https://images.microbadger.com/badges/image/vergissberlin/opensuse-development.svg
-[5]: https://img.shields.io/docker/pulls/vergissberlin/opensuse-development.svg
+[5]: https://img.shields.io/docker/pulls/vergissberlin/opensuse-development.svg?style=flat-square
+[6]: https://img.shields.io/docker/automated/vergissberlin/opensuse-development.svg?style=flat-square
+[7]: https://img.shields.io/docker/build/vergissberlin/opensuse-development.svg?style=flat-square
 
 ## Promise
 
