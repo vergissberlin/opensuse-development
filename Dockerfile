@@ -8,5 +8,6 @@ RUN zypper up -y &&\
 	git-core \
 	make \
 	mc \
+	siege \and 
 	wget \
 	vim
