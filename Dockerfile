@@ -5,6 +5,7 @@ RUN zypper up -y &&\
 	bats \
 	curl \
 	figlet \
+	findutils \
 	git-core \
 	make \
 	mc \
